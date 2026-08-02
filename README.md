@@ -25,14 +25,7 @@ transitions and standard-cell timing characterization becomes practical.
 The library includes the following 24 optimized ternary standard cells, each
 defined as a `.subckt` in `std_cells.sp`:
 
-| Cell | Cell | Cell | Cell |
-|------|------|------|------|
-| `INV`   | `STI`   | `PTI`   | `NTI`   |
-| `STI12` | `STI01` | `NMIN`  | `NMAX`  |
-| `NNMIN` | `PNMIN` | `NANY`  | `NCONS` |
-| `PROD`  | `SUM`   | `MB0`   | `MB1`   |
-| `MB2`   | `MB3`   | `MB4`   | `MB5`   |
-| `MB6`   | `CNT1`  | `CNT2`  | `MUX`   |
+`INV`, `STI`, `PTI`, `NTI`, `STI12`, `STI01`, `NMIN`, `NMAX`, `NNMIN`, `PNMIN`, `NANY`, `NCONS`, `PROD`, `SUM`, `MB0`, `MB1`, `MB2`, `MB3`, `MB4`, `MB5`, `MB6`, `CNT1`, `CNT2`, `MUX`.
 
 All cells are synthesized following the ternary synthesis method of [19] in the
 paper and then optimized as described therein.
