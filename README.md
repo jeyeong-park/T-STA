@@ -1,5 +1,3 @@
-# T-STA
-
 # Ternary Standard-Cell Library for Static Timing Analysis
 
 This repository accompanies the paper *"Transition Time Balancing for 6-Edge
