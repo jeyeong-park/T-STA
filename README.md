@@ -61,9 +61,7 @@ bibliographic entry will be added here once the paper is published.
 
 ## License
 
-The released cells and library are distributed under the license specified in
-the `LICENSE` file. The CNTFET compact model is **not** covered by this license
-and remains under its original terms.
+The cells and library will be released under the Creative Commons Attribution 4.0 International (CC BY 4.0) license; the license file and copyright information will be added upon publication. The CNTFET compact model is not covered by this license and remains under its original terms.
 
 ## Contact
 
